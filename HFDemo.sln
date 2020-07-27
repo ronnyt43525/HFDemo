@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic - Server and Dashboard", "Basic - Server and Dashboard", "{C1F5E703-0CF6-4D9B-897C-24DF862D7CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Hangfire_ServerAndDashboard", "Basic_Hangfire_ServerAndDashboard\Basic_Hangfire_ServerAndDashboard.csproj", "{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8FFFD83-8F87-40BE-9F96-4FD69C9A8F87} = {C1F5E703-0CF6-4D9B-897C-24DF862D7CEC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149C733C-E202-4219-813C-B74429037903}
+	EndGlobalSection
+EndGlobal
